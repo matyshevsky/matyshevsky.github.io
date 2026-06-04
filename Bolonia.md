@@ -43,6 +43,7 @@
 - **Piadina romagnola** - to raczej lokalny street food. Najczęściej z wędliną lub mozzarellą z dodatkiem rucoli lub pomidorów.
 - **Deskaserów i wędlin** - Emilia-Romania to królestwo serów, szynek, kiełbasek i salami… To tutaj powstaje Parmigiano reggiano czy Prosciutto di Parma.
 - **Ryby i owoce morze** - Bolonia leży godzinę drogi od Adriatyku więc frutti di mare są tu świeże, popularne i łatwo dostępne.
+
 ### miejsca do zwiedzenia
 - **Mercato di Mezzo** - Tętniący życiem zadaszony targ spożywczy z makaronem, mięsem, serami, pizzą i napojami oraz miejscami do siedzenia przy stolikach.
 - **Mercato delle Erbe** - Tętniący życiem zadaszony targ ze stoiskami oferującymi lokalne produkty rolne, mięso i sery oraz strefą gastronomiczną.
@@ -71,6 +72,7 @@
 		- historia związana jest z cudowną ikoną Matki Bożej, którą według tradycji przywieziono do Bolonii z Konstantynopola.
 		- Największą atrakcją jest jednak sama droga prowadząca do sanktuarium – **3,8-kilometrowy portyk z 666 łukami**, który łączy wzgórze z centrum Bolonii i jest najdłuższym zadaszonym portykiem na świecie. Spacer tą trasą to jedno z najbardziej niezapomnianych doświadczeń w mieście. Mija się kolejne arkady, niewielkie kapliczki i punkty widokowe. Jednocześnie czuć mieszankę duchowości, historii i codziennego życia mieszkańców. Wielu Bolończyków regularnie pokonuje tę trasę pieszo lub biegając.
 		- **Porada praktyczna:** nawet jeśli nie planujesz wchodzić aż na sam szczyt, warto przejść przynajmniej fragment tego wyjątkowego portyku – to prawdziwa esencja Bolonii.
+
 ### wycieczki poza miasto
 - **Florencja**
 	- Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
