@@ -1,16 +1,16 @@
 Spis treści
-1. [info organizacyjne](#info organizacyjne)
-2. [[#przygotowanie]]
-3. [[#jedzenie]]
-4. [[#miejsca do zwiedzenia w Bolonii]]
-5. [[#wycieczki poza miasto]]
-	1. [[#warianty]]
-	2. [[#Florencja]]
-	3. [[#Rimini]]
-	4. [[#Modena]]
-	5. [[#Ferrara]]
-	6. [[#Parma]]
-	7. [[#Rawenna]]
+1. [info organizacyjne](#info-organizacyjne)
+2. [przygotowanie](#przygotowanie)
+3. [jedzenie](#jedzenie)
+4. [miejsca do zwiedzenia w Bolonii](#miejsca-do-zwiedzenia-w-Bolonii)
+5. [wycieczki poza miasto](#wycieczki-poza-miasto)
+	1. [warianty](#warianty)
+	2. [Florencja](#florencja)
+	3. [Rimini](#rimini)
+	4. [Modena](#modena)
+	5. [Ferrara](#ferrara)
+	6. [Parma](#parma)
+	7. [Rawenna](#rawenna)
 
 ### info organizacyjne
 - Data wycieczki: 13.06.2026 - 16.06.2026
