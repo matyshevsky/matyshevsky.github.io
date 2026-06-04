@@ -32,13 +32,10 @@
 	- torri, tortellini e tette (wieże, tortellini i cycki) - starsza, bardziej ironiczna, z przymrużeniem oka
 - dziś uchodzi za jedno z najbardziej progresywnych miast we Włoszech
 #### historia
-Bolonia ma ponad 2000 lat historii i należy do najstarszych nieprzerwanie zamieszkanych miast we Włoszech. Początki sięgają etruskiej osady Felsina, która została później przejęta przez Rzymian i przekształcona w kolonię Bononia – ważny punkt na rzymskich szlakach handlowych (m.in. Via Aemilia).
-
-W średniowieczu Bolonia stała się jednym z najważniejszych ośrodków miejskich Europy. To właśnie tutaj w 1088 roku powstał Uniwersytet Boloński – uznawany za najstarszy działający uniwersytet na świecie, który przyciągał uczonych z całej Europy i ukształtował miasto jako centrum prawa i nauki.
-
-Okres XII–XIV wieku to czas wielkiego rozkwitu i rywalizacji rodów miejskich – z tego czasu pochodzą słynne wieże (torri), które były symbolem statusu i władzy. W późniejszych wiekach Bolonia znalazła się pod wpływem Państwa Kościelnego, co odcisnęło piętno na architekturze i sztuce miasta.
-
-W XIX wieku miasto stało się ważnym ośrodkiem ruchów niepodległościowych i zjednoczenia Włoch. Współcześnie Bolonia uchodzi za jedno z najbardziej progresywnych, dobrze zorganizowanych i jakościowych miast do życia we Włoszech – łączące akademicką tradycję z nowoczesnością i silną kulturą miejską.
+- Bolonia ma ponad 2000 lat historii i należy do najstarszych nieprzerwanie zamieszkanych miast we Włoszech. Początki sięgają etruskiej osady Felsina, która została później przejęta przez Rzymian i przekształcona w kolonię Bononia – ważny punkt na rzymskich szlakach handlowych (m.in. Via Aemilia).
+- W średniowieczu Bolonia stała się jednym z najważniejszych ośrodków miejskich Europy. To właśnie tutaj w 1088 roku powstał Uniwersytet Boloński – uznawany za najstarszy działający uniwersytet na świecie, który przyciągał uczonych z całej Europy i ukształtował miasto jako centrum prawa i nauki.
+- Okres XII–XIV wieku to czas wielkiego rozkwitu i rywalizacji rodów miejskich – z tego czasu pochodzą słynne wieże (torri), które były symbolem statusu i władzy. W późniejszych wiekach Bolonia znalazła się pod wpływem Państwa Kościelnego, co odcisnęło piętno na architekturze i sztuce miasta.
+- W XIX wieku miasto stało się ważnym ośrodkiem ruchów niepodległościowych i zjednoczenia Włoch. Współcześnie Bolonia uchodzi za jedno z najbardziej progresywnych, dobrze zorganizowanych i jakościowych miast do życia we Włoszech – łączące akademicką tradycję z nowoczesnością i silną kulturą miejską.
 ### jedzenie
 - W restauracyjnym menu nie szukaj spaghetti bolognese
 - **Tagliatelle z ragù** - czyli klasyczny makaron z regionu Emilia-Romania w kształcie wstążek o szerokości około 1 cm z sosem _ragu alla bolognese_.
