@@ -1,5 +1,5 @@
 Spis treści
-1. [[#info organizacyjne]]
+1. [info organizacyjne](#info organizacyjne)
 2. [[#przygotowanie]]
 3. [[#jedzenie]]
 4. [[#miejsca do zwiedzenia w Bolonii]]
