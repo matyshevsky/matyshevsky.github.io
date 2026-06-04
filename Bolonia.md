@@ -132,13 +132,13 @@ Ponieważ ciekawych miast w okolicy jest 6 przygotowaliśmy kilka wariantów wyc
 - czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
 - Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
 - jedzenie: 
-		- Trattoria Za Za - kultowe miejsce, potrzebna wcześniej rezerwacja
-		- Mangiafoco Osteria Tartuferia - trochę droższe miejsce, specjalizacja w daniach z dodatkiem trufli
-		- Osteria del Giglio - klasyczna kuchnia florencka
-		- lody:
-			- Il Gelato di Filo
-			- Cantina del Gelato
-			- La Strega Nocciola Gelateria Artigianale
+	- Trattoria Za Za - kultowe miejsce, potrzebna wcześniej rezerwacja
+	- Mangiafoco Osteria Tartuferia - trochę droższe miejsce, specjalizacja w daniach z dodatkiem trufli
+	- Osteria del Giglio - klasyczna kuchnia florencka
+	- lody:
+		- Il Gelato di Filo
+		- Cantina del Gelato
+		- La Strega Nocciola Gelateria Artigianale
 - miejsca
 	- **Katedra Santa Maria del Fiore** – ikona Florencji z charakterystyczną kopułą Brunelleschiego, będącą jednym z największych osiągnięć architektury renesansowej. Wnętrze katedry jest dość surowe, ale skala budowli robi ogromne wrażenie. Sama kopuła dominuje nad panoramą miasta i jest jego najważniejszym symbolem.
 	- **Dzwonnica Giotta** – smukła, bogato zdobiona wieża stojąca obok katedry, z której roztacza się jeden z najlepszych widoków na kopułę i całe centrum Florencji. Warto wejść na górę, choć trzeba liczyć się ze sporą liczbą schodów. Każdy poziom odsłania inny fragment panoramy miasta.
