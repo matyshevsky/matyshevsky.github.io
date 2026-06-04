@@ -12,9 +12,9 @@
 ### prztygotowanie
 
 #### przydatne linki:
-- https://www.kierunekwlochy.pl/bolonia-wlochy/
-- https://italia-by-natalia.pl/gdzie-zjesc-we-florencji-toskania/
-- https://italiaecucina.com/sprawdzone-adresy-w-bolonii/
+- [kierunek włochy](https://www.kierunekwlochy.pl/bolonia-wlochy/)
+- [italia by natalia](https://italia-by-natalia.pl/gdzie-zjesc-we-florencji-toskania/)
+- [italia e cucina](https://italiaecucina.com/sprawdzone-adresy-w-bolonii/)
 
 #### co zabrać?
  - czy brać kąpielówki? to zależy - jeśli zdecydujemy się pojechać do Rimini to warto, tam jest plaża. Jeśli nie, to nie bierzemy kąpielówek.
