@@ -127,6 +127,7 @@ Ponieważ ciekawych miast w okolicy jest 6 przygotowaliśmy kilka wariantów wyc
 	- najlepszy wariant dla fanów włoskiego jedzenia, balsamico, Parmigiano Reggiano, Prosciutto di Parma, mniej tłumów i więcej jakościowego klimatu, bardzo komfortowy logistycznie i najmniej męczący, bardziej "powolne Włochy" niż klasyczne odhaczanie atrakcji
 	- Modena przejazd ok 30min (4,50€ - 9,90€)
 	- Parma przejazd: ok 1h (8,50€ - 12,00€ - 26,00€)
+
 #### Florencja
 - czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
 - Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
