@@ -98,21 +98,35 @@ Spis treści
 Ponieważ ciekawych miast w okolicy jest 6 przygotowaliśmy kilka wariantów wycieczek:
 
 1. Najbardziej włoski i zbalansowany
-		- Modena + Ferrara
-		- świetne jedzenie, klimat Emilii-Romani, piękne miasta, mało stresu, minimum tłumów, bardzo mało męczącej turystyki
-		- Modena przejazd ok 30min (4,50€ - 9,90€)
-		- Ferrara przejazd: 26 min (18,90€), 31 min (5,50€)
+	- Modena + Ferrara
+	- świetne jedzenie, klimat Emilii-Romani, piękne miasta, mało stresu, minimum tłumów, bardzo mało męczącej turystyki
+	- Modena przejazd ok 30min (4,50€ - 9,90€)
+	- Ferrara przejazd: 26 min (18,90€), 31 min (5,50€)
 2. Największy efekt WOW
-		- Florencja + Modena
-		- najbardziej męczący i turystyczny, najgorętszy, TOP 5 najpiękniejszych miast europy, ikoniczne widoki
-		- czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
-		- Modena przejazd ok 30min (4,50€ - 9,90€)
+	- Florencja + Modena
+	- najbardziej męczący i turystyczny, najgorętszy, TOP 5 najpiękniejszych miast europy, ikoniczne widoki
+	- czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
+	- Modena przejazd ok 30min (4,50€ - 9,90€)
 3. Miasto i reset
-		- Modena + Rimini
-		- Najbardziej wakacyjny wariant, odpoczynek, Adriatyk, plaża, aperol nad morzem
-		- Modena przejazd ok 30min (4,50€ - 9,90€)
-		- czas i cena przejazdu: ok 1h 30min (11,30€)
-
+	- Modena + Rimini
+	- Najbardziej wakacyjny wariant, odpoczynek, Adriatyk, plaża, aperol nad morzem
+	- Modena przejazd ok 30min (4,50€ - 9,90€)
+	- czas i cena przejazdu: ok 1h 30min (11,30€)
+4. Historia, sztuka i klimat
+	- Rawenna + Ferrara
+	- świetny balans między historią a spokojnym zwiedzaniem, mozaiki UNESCO, dawna stolica Cesarstwa Zachodniorzymskiego, spokojna atmosfera, bardzo autentyczne miasta, mało masowej turystyki
+	- Rawenna przejazd: ok 1h12min (8,50€)
+	- Ferrara przejazd: 26 min (18,90€), 31 min (5,50€)
+5. Toskania premium
+	- Florencja + Parma
+	- najbardziej elegancki wariant, sztuka renesansu + kulinarna stolica regionu, bardzo dobre restauracje, piękne historyczne centra, najbardziej "premium" odczucie całego wyjazdu, dużo pięknej architektury, ale też sporo chodzenia i upału
+	- Florencja czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
+	- Parma przejazd: ok 1h (8,50€ - 12,00€ - 26,00€)
+6. Najbardziej kulinarny
+	- Modena + Parma
+	- najlepszy wariant dla fanów włoskiego jedzenia, balsamico, Parmigiano Reggiano, Prosciutto di Parma, mniej tłumów i więcej jakościowego klimatu, bardzo komfortowy logistycznie i najmniej męczący, bardziej "powolne Włochy" niż klasyczne odhaczanie atrakcji
+	- Modena przejazd ok 30min (4,50€ - 9,90€)
+	- Parma przejazd: ok 1h (8,50€ - 12,00€ - 26,00€)
 #### Florencja
 - czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
 - Opis: Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
