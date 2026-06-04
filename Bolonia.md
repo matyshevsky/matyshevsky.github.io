@@ -129,7 +129,7 @@ Ponieważ ciekawych miast w okolicy jest 6 przygotowaliśmy kilka wariantów wyc
 	- Parma przejazd: ok 1h (8,50€ - 12,00€ - 26,00€)
 #### Florencja
 - czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
-- Opis: Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
+- Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
 - jedzenie: 
 		- Trattoria Za Za - kultowe miejsce, potrzebna wcześniej rezerwacja
 		- Mangiafoco Osteria Tartuferia - trochę droższe miejsce, specjalizacja w daniach z dodatkiem trufli
