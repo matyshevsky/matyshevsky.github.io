@@ -8,12 +8,14 @@
 - [mapka](https://maps.app.goo.gl/FFUCtNdXAVp4onms8?g_st=i)
 - bagaż tylko podręczny: 40cm x 30cm x 20cm 10kg max
 - [pociągi międzymiastowe](https://www.trenitalia.com/it.html)
+
 ### prztygotowanie
 
 #### przydatne linki:
 - https://www.kierunekwlochy.pl/bolonia-wlochy/
 - https://italia-by-natalia.pl/gdzie-zjesc-we-florencji-toskania/
 - https://italiaecucina.com/sprawdzone-adresy-w-bolonii/
+
 #### co zabrać?
  - czy brać kąpielówki? to zależy - jeśli zdecydujemy się pojechać do Rimini to warto, tam jest plaża. Jeśli nie, to nie bierzemy kąpielówek.
  - warto na czas lotu zabrać ze sobą po jakiejś kanapce, bo między 3:00 a praktycznie 9:00 nie będzie opcji zjedzenia niczego. Polecam zrobić sobie pożywną kanapkę np: kajzerka + usmażona pierś w panierce + warzywa + jakieś ulubione sosy. Taka jedna spokojnie starcza na kilka godzin.
@@ -21,21 +23,25 @@
  - okrycie głowy obowiązkowo!!!
  - bardzo wygodne jedne buty do długiego chodzenia
  - wygodne, przewiewne ubrania
+
 #### pogoda
 - 13.06 sobota - 33°C Słonecznie, deszcz 0mm
 - 14.06 niedziela - 32°C Częściowo słonecznie, deszcz 1.2 mm
 - 15.06 poniedziałek - 32°C Przejściowe zachmurzenie, deszcz 0mm
+
 #### warto wiedzieć
 - Bolonia jest miastem o wiele mniej turystycznym niż Rzym, Wenecja czy Florencja. To sprawia, że spacer po Bolonii jest doświadczeniem bardziej autentycznym.
 - Bolonie nazywa się "miastem trzech T" w dwóch wersjach
 	- torri, tetti e tortellini (wieże, dachy i tortellini) - to wersja „grzeczna”, turystyczna, używana dziś najczęściej
 	- torri, tortellini e tette (wieże, tortellini i cycki) - starsza, bardziej ironiczna, z przymrużeniem oka
 - dziś uchodzi za jedno z najbardziej progresywnych miast we Włoszech
+
 #### historia
 - Bolonia ma ponad 2000 lat historii i należy do najstarszych nieprzerwanie zamieszkanych miast we Włoszech. Początki sięgają etruskiej osady Felsina, która została później przejęta przez Rzymian i przekształcona w kolonię Bononia – ważny punkt na rzymskich szlakach handlowych (m.in. Via Aemilia).
 - W średniowieczu Bolonia stała się jednym z najważniejszych ośrodków miejskich Europy. To właśnie tutaj w 1088 roku powstał Uniwersytet Boloński – uznawany za najstarszy działający uniwersytet na świecie, który przyciągał uczonych z całej Europy i ukształtował miasto jako centrum prawa i nauki.
 - Okres XII–XIV wieku to czas wielkiego rozkwitu i rywalizacji rodów miejskich – z tego czasu pochodzą słynne wieże (torri), które były symbolem statusu i władzy. W późniejszych wiekach Bolonia znalazła się pod wpływem Państwa Kościelnego, co odcisnęło piętno na architekturze i sztuce miasta.
 - W XIX wieku miasto stało się ważnym ośrodkiem ruchów niepodległościowych i zjednoczenia Włoch. Współcześnie Bolonia uchodzi za jedno z najbardziej progresywnych, dobrze zorganizowanych i jakościowych miast do życia we Włoszech – łączące akademicką tradycję z nowoczesnością i silną kulturą miejską.
+
 ### jedzenie
 - W restauracyjnym menu nie szukaj spaghetti bolognese
 - **Tagliatelle z ragù** - czyli klasyczny makaron z regionu Emilia-Romania w kształcie wstążek o szerokości około 1 cm z sosem _ragu alla bolognese_.
@@ -100,6 +106,7 @@
 		- **Trattoria Zà Zà** - BARDZO popularna restauracja, ale trzeba zrobić wcześniej rezerwacje. Ceny, jak na Florencje, przystępne
 	- rozważyć kupno [biletów 'kombinowanych'](https://www.uffizi.it/en/tickets)
 	- ciekawostka: [Syndrom Florencki](https://pl.wikipedia.org/wiki/Syndrom_Stendhala)
+
 - **Rimini**
 	- Rimini to najprostszy i najbardziej oczywisty sposób, żeby połączyć zwiedzanie Bolonii z **wypoczynkiem nad morzem**. Dojazd pociągiem zajmuje od około jednej do dwóch godzin w zależności od wybranego połączenia.
 	- miejsca
@@ -107,6 +114,7 @@
 		- **Most Tyberiusza** – rzymski most z I wieku n.e., który do dziś pozostaje w użyciu i łączy centrum miasta z dzielnicą Borgo San Giuliano. Jest przykładem niezwykle trwałej inżynierii rzymskiej. W okolicy znajdują się klimatyczne uliczki i murale.
 		- **Piazza Cavour** – główny plac historycznego centrum Rimini, otoczony pałacami i zabytkowymi budynkami. W przeszłości pełnił funkcję centrum administracyjnego miasta. Dziś jest miejscem spotkań i wydarzeń kulturalnych.
 		- plaża
+
 - **Modena**
 	- Modena to eleganckie miasto Emilii-Romanii znane na całym świecie z balsamico tradizionale oraz motoryzacji – to właśnie stąd pochodzą Ferrari i Maserati. Historyczne centrum wpisane jest na listę UNESCO i zachwyca romańską katedrą oraz spokojną, bardziej „lokalną” atmosferą niż w Bolonii. Modena ma też silną scenę kulinarną – to jedno z najlepszych miejsc we Włoszech dla miłośników jedzenia wysokiej jakości. Idealna na półdniową lub jednodniową wycieczkę bez tłumów.
 	- miejsca:
@@ -115,6 +123,7 @@
 		- **Torre Ghirlandina** – średniowieczna wieża, która pierwotnie pełniła funkcję dzwonnicy i punktu obserwacyjnego. Dziś można wejść na górę i zobaczyć panoramę Modeny i okolic. Wieża jest jednym z najważniejszych symboli miasta.
 		- **Mercato Albinelli** – historyczny targ kryty z początku XX wieku, pełen lokalnych produktów, serów, wędlin i świeżych składników. To jedno z najlepszych miejsc, żeby poczuć kulinarny charakter Modeny. W środku działają też małe bary i miejsca na szybki lunch.
 		- **Muzeum Enzo Ferrari** – nowoczesne muzeum poświęcone historii Ferrari i jego założyciela. Łączy ekspozycję klasycznych modeli z futurystyczną architekturą budynku. Obowiązkowy punkt dla fanów motoryzacji.
+
 - **Ferrera**
 	- Zaledwie pół godziny pociągiem z Bolonii położona jest Ferrara – jedno z tych pięknych miast Emilii-Romanii, które wciąż pozostaje poza głównym szlakiem masowej turystyki. Tymczasem Ferrara urzeka spokojem, autentycznością i wyjątkowym dziedzictwem renesansu. To idealna, kameralna odskocznia od zatłoczonej Bolonii. Ferrara sprawdzi się idealnie jako spokojna, kilkugodzinna wycieczka z Bolonii. Najważniejsze atrakcje zobaczysz w 4–5 godzin, ale warto zostać dłużej, pospacerować po historycznym centrum i skosztować lokalnego specjału – _cappellacci di zucca_ (pierogi z dynią z masłem i szałwią).
 	- miejsca:
@@ -122,6 +131,7 @@
 		- **Duomo di San Giorgio** – katedra Ferrary o fasadzie łączącej styl romański i gotycki, z bogato zdobionym portalem. Wnętrze jest bardziej stonowane, ale pełne historycznych dzieł sztuki. Świątynia od wieków pełni rolę duchowego centrum miasta.
 		- **Loggia dei Merciai** – historyczna arkadowa przestrzeń handlowa, gdzie kiedyś odbywały się targi i wymiana towarów. Dziś stanowi klimatyczny element starego miasta. Przypomina o handlowym znaczeniu Ferrary w przeszłości.
 		- **Palazzo dei Diamanti** – jeden z najsłynniejszych renesansowych pałaców we Włoszech, nazwany tak od charakterystycznej fasady pokrytej „diamentowymi” blokami kamienia. Obecnie mieści galerie sztuki i wystawy czasowe. Budynek jest jednym z najbardziej rozpoznawalnych symboli Ferrary.
+	
 - **Parma**
 	- Parma to jedno z najbardziej eleganckich miast regionu, znane z opery, sztuki i światowej klasy gastronomii. To tutaj powstaje słynny Parmigiano Reggiano oraz Prosciutto di Parma, a miasto uchodzi za jedno z kulinarnych centrów Włoch. Historycznie Parma była ważnym księstwem, co widać w monumentalnej architekturze i bogatych wnętrzach katedry oraz baptysterium. Miasto jest mniejsze i bardziej uporządkowane niż Bolonia, idealne na spokojny dzień.
 	- miejsca:
@@ -130,7 +140,7 @@
 		- **Teatro Regio** – jedna z najważniejszych oper we Włoszech, będąca symbolem muzycznej tradycji Parmy. Wnętrze jest eleganckie, klasyczne i bardzo reprezentacyjne. Miasto jest silnie związane z Giuseppe Verdim.
 		- **Palazzo della Pilotta** – rozległy kompleks muzealny obejmujący galerie sztuki, bibliotekę i teatr Farnese. To jedno z najważniejszych miejsc kulturalnych Parmy. Szczególnie imponujący jest drewniany teatr wewnątrz pałacu.
 		- **Parco Ducale** – duży, elegancki park miejski założony przez ród Farnese, idealny na spacer i odpoczynek. Miejsce ma klasyczny, królewski układ z alejami i stawami. Popularne wśród mieszkańców na spokojne popołudnia.
-	- 
+	
 - **Rawenna**
 	- Rawenna to jedna z największych niespodzianek Emilii-Romanii. Rawenna to **dawna stolica Cesarstwa Zachodniorzymskiego**, a później ważny ośrodek bizantyjski we Włoszech, która zachowała największy na Zachodzie **zbiór mozaik z V–VI wieku**. To łącznie aż **osiem obiektów wpisanych na listę UNESCO**, dla których przyjeżdżają turyści z całej Europy i świata. Tak dobrze zachowanych mozaik nie ma nigdzie indziej w Unii Europejskiej, a na świecie są tylko w nielicznych miejscach. Rawenna jest kameralna, autentyczna i wolna od tłumów – z lokalną atmosferą i naprawdę dobrymi restauracjami.
 	- porada praktyczna: Warto **kupić wspólny bilet wstępu do 5 najważniejszych zabytków** (wł. _biglietto cumulativo_), który upoważnia do odwiedzenia: Basilica di Sant’Apollinare Nuovo, Basilica di San Vitale, Mausoleo di Galla Placidia, Battistero Neoniano oraz Museo Arcivescovile e Cappella di S. Andrea. Bilet kosztuje **14,50 euro**, a ulgowy **4 euro**. Bilet można kupić w kasie na miejscu lub przez internet na oficjalnej stronie **[ravennamosaici.it](https://www.ravennamosaici.it/biglietteria-online/)**
