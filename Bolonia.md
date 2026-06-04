@@ -1,15 +1,29 @@
+Spis treści
+1. [[#info organizacyjne]]
+2. [[#przygotowanie]]
+3. [[#jedzenie]]
+4. [[#miejsca do zwiedzenia w Bolonii]]
+5. [[#wycieczki poza miasto]]
+	1. [[#warianty]]
+	2. [[#Florencja]]
+	3. [[#Rimini]]
+	4. [[#Modena]]
+	5. [[#Ferrara]]
+	6. [[#Parma]]
+	7. [[#Rawenna]]
+
 ### info organizacyjne
 - Data wycieczki: 13.06.2026 - 16.06.2026
 - Wylot Warszawa Chopin: 5:40
 - Powrót: 12:45
 - Linia lotnicza: wizz air
-- Nocleg:
+- [nocleg](https://www.booking.com/hotel/it/irnerio-apartments-by-wonderful-italy.pl.html)
 - szacowana ilość gotówki na osobę: ok 350-400€
 - [mapka](https://maps.app.goo.gl/FFUCtNdXAVp4onms8?g_st=i)
 - bagaż tylko podręczny: 40cm x 30cm x 20cm 10kg max
 - [pociągi międzymiastowe](https://www.trenitalia.com/it.html)
 
-### prztygotowanie
+### przygotowanie
 
 #### przydatne linki:
 - [kierunek włochy](https://www.kierunekwlochy.pl/bolonia-wlochy/)
@@ -50,7 +64,7 @@
 - **Deskaserów i wędlin** - Emilia-Romania to królestwo serów, szynek, kiełbasek i salami… To tutaj powstaje Parmigiano reggiano czy Prosciutto di Parma.
 - **Ryby i owoce morze** - Bolonia leży godzinę drogi od Adriatyku więc frutti di mare są tu świeże, popularne i łatwo dostępne.
 
-### miejsca do zwiedzenia
+### miejsca do zwiedzenia w Bolonii
 - **Mercato di Mezzo** - Tętniący życiem zadaszony targ spożywczy z makaronem, mięsem, serami, pizzą i napojami oraz miejscami do siedzenia przy stolikach.
 - **Mercato delle Erbe** - Tętniący życiem zadaszony targ ze stoiskami oferującymi lokalne produkty rolne, mięso i sery oraz strefą gastronomiczną.
 - **Piazza Maggiore** - Główny plac miasta otoczony średniowiecznymi i renesansowymi budynkami, znany z kawiarni i ulicznych muzyków.
@@ -80,9 +94,29 @@
 		- **Porada praktyczna:** nawet jeśli nie planujesz wchodzić aż na sam szczyt, warto przejść przynajmniej fragment tego wyjątkowego portyku – to prawdziwa esencja Bolonii.
 
 ### wycieczki poza miasto
-- **Florencja**
-	- Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
-	- jedzenie: 
+#### warianty
+Ponieważ ciekawych miast w okolicy jest 6 przygotowaliśmy kilka wariantów wycieczek:
+
+1. Najbardziej włoski i zbalansowany
+		- Modena + Ferrara
+		- świetne jedzenie, klimat Emilii-Romani, piękne miasta, mało stresu, minimum tłumów, bardzo mało męczącej turystyki
+		- Modena przejazd ok 30min (4,50€ - 9,90€)
+		- Ferrara przejazd: 26 min (18,90€), 31 min (5,50€)
+2. Największy efekt WOW
+		- Florencja + Modena
+		- najbardziej męczący i turystyczny, najgorętszy, TOP 5 najpiękniejszych miast europy, ikoniczne widoki
+		- czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
+		- Modena przejazd ok 30min (4,50€ - 9,90€)
+3. Miasto i reset
+		- Modena + Rimini
+		- Najbardziej wakacyjny wariant, odpoczynek, Adriatyk, plaża, aperol nad morzem
+		- Modena przejazd ok 30min (4,50€ - 9,90€)
+		- czas i cena przejazdu: ok 1h 30min (11,30€)
+
+#### Florencja
+- czas i cena przejazdu: 37 min (22,90€-35€) - 1h6min (12,50€)
+- Opis: Florencja, czyli kolebka renesansu, to zdecydowanie najpopularniejszy kierunek na całodniową wycieczkę z Bolonii. Nic dziwnego – oba miasta łączy jedna z najszybszych linii kolejowych we Włoszech. Liczba zabytków Florencji, znanych placów, punktów widokowych i muzeów jest tak duża, że w trakcie jednego dnia można zobaczyć tylko najważniejsze miejsca. Jeśli jednak masz możliwość, rozważ przynajmniej jeden nocleg we Florencji. Dzięki temu zwiedzisz najważniejsze miejsca bez pośpiechu i poczujesz prawdziwą atmosferę miasta.
+- jedzenie: 
 		- Trattoria Za Za - kultowe miejsce, potrzebna wcześniej rezerwacja
 		- Mangiafoco Osteria Tartuferia - trochę droższe miejsce, specjalizacja w daniach z dodatkiem trufli
 		- Osteria del Giglio - klasyczna kuchnia florencka
@@ -90,69 +124,67 @@
 			- Il Gelato di Filo
 			- Cantina del Gelato
 			- La Strega Nocciola Gelateria Artigianale
-	- miejsca
-		- **Katedra Santa Maria del Fiore** – ikona Florencji z charakterystyczną kopułą Brunelleschiego, będącą jednym z największych osiągnięć architektury renesansowej. Wnętrze katedry jest dość surowe, ale skala budowli robi ogromne wrażenie. Sama kopuła dominuje nad panoramą miasta i jest jego najważniejszym symbolem.
-		- **Dzwonnica Giotta** – smukła, bogato zdobiona wieża stojąca obok katedry, z której roztacza się jeden z najlepszych widoków na kopułę i całe centrum Florencji. Warto wejść na górę, choć trzeba liczyć się ze sporą liczbą schodów. Każdy poziom odsłania inny fragment panoramy miasta.
-		- **Baptysterium św. Jana** – jedna z najstarszych budowli Florencji, słynąca z brązowych drzwi Ghibertiego, nazywanych „Bramą Raju”. Wnętrze zachwyca złotymi mozaikami przedstawiającymi sceny biblijne. To miejsce ma ogromne znaczenie religijne i historyczne dla miasta.
-		- **Piazza della Signoria** – główny plac polityczny Florencji od czasów średniowiecza, pełen rzeźb i historycznych symboli władzy. To tutaj odbywały się najważniejsze wydarzenia publiczne miasta. Dziś jest otwartą galerią sztuki pod gołym niebem.
-		- **Palazzo Vecchio** – dawny ratusz i siedziba władz Florencji, przypominający bardziej twierdzę niż pałac. W środku znajdują się bogato zdobione sale i freski, a wieża oferuje świetny widok na miasto. Budynek nadal pełni funkcje administracyjne.
-		- **Ponte Vecchio** – najsłynniejszy most Florencji, znany z domków jubilerskich zawieszonych nad rzeką Arno. Przetrwał II wojnę światową jako jeden z niewielu mostów w mieście. To jedno z najbardziej rozpoznawalnych i romantycznych miejsc we Włoszech.
-		- **Galeria Uffizi** (25€) – jedno z najważniejszych muzeów sztuki na świecie, z dziełami Botticellego, Leonarda da Vinci i Tycjana. Kolekcja obejmuje kluczowe obrazy epoki renesansu. Rezerwacja wejścia jest praktycznie obowiązkowa ze względu na tłumy.
-		- **Galeria dell’Accademia** – muzeum znane przede wszystkim z oryginalnego „Dawida” Michała Anioła. Rzeźba robi ogromne wrażenie skalą i detalem wykonania. Pozostała część muzeum jest mniejsza, ale uzupełnia kontekst twórczości artysty.
-		- **Palazzo Pitti** (16€) – monumentalny pałac po drugiej stronie Arno, dawna rezydencja rodu Medyceuszy. W środku znajdują się liczne galerie sztuki i królewskie apartamenty. Budynek pokazuje skalę bogactwa dawnych elit Florencji.
-		- **Ogród Boboli** (13€) – rozległy ogród renesansowy przy Palazzo Pitti, pełen rzeźb, tarasów i alejek widokowych. To jedno z najlepszych miejsc na spokojny spacer i odpoczynek od tłumów miasta. Z wyższych punktów ogrodu widać panoramę Florencji.
-		- **Piazzale Michelangelo** – najsłynniejszy punkt widokowy we Florencji, szczególnie popularny o zachodzie słońca. Widok obejmuje całą starówkę z kopułą katedry na pierwszym planie. To jedno z najbardziej fotograficznych miejsc w mieście.
-		- **Piazzale Michelangelo** - punkt widokowy, szczególnie ładnie o zachodzie słońca
-		- **Trattoria Zà Zà** - BARDZO popularna restauracja, ale trzeba zrobić wcześniej rezerwacje. Ceny, jak na Florencje, przystępne
-	- rozważyć kupno [biletów 'kombinowanych'](https://www.uffizi.it/en/tickets)
-	- ciekawostka: [Syndrom Florencki](https://pl.wikipedia.org/wiki/Syndrom_Stendhala)
+- miejsca
+	- **Katedra Santa Maria del Fiore** – ikona Florencji z charakterystyczną kopułą Brunelleschiego, będącą jednym z największych osiągnięć architektury renesansowej. Wnętrze katedry jest dość surowe, ale skala budowli robi ogromne wrażenie. Sama kopuła dominuje nad panoramą miasta i jest jego najważniejszym symbolem.
+	- **Dzwonnica Giotta** – smukła, bogato zdobiona wieża stojąca obok katedry, z której roztacza się jeden z najlepszych widoków na kopułę i całe centrum Florencji. Warto wejść na górę, choć trzeba liczyć się ze sporą liczbą schodów. Każdy poziom odsłania inny fragment panoramy miasta.
+	- **Baptysterium św. Jana** – jedna z najstarszych budowli Florencji, słynąca z brązowych drzwi Ghibertiego, nazywanych „Bramą Raju”. Wnętrze zachwyca złotymi mozaikami przedstawiającymi sceny biblijne. To miejsce ma ogromne znaczenie religijne i historyczne dla miasta.
+	- **Piazza della Signoria** – główny plac polityczny Florencji od czasów średniowiecza, pełen rzeźb i historycznych symboli władzy. To tutaj odbywały się najważniejsze wydarzenia publiczne miasta. Dziś jest otwartą galerią sztuki pod gołym niebem.
+	- **Palazzo Vecchio** – dawny ratusz i siedziba władz Florencji, przypominający bardziej twierdzę niż pałac. W środku znajdują się bogato zdobione sale i freski, a wieża oferuje świetny widok na miasto. Budynek nadal pełni funkcje administracyjne.
+	- **Ponte Vecchio** – najsłynniejszy most Florencji, znany z domków jubilerskich zawieszonych nad rzeką Arno. Przetrwał II wojnę światową jako jeden z niewielu mostów w mieście. To jedno z najbardziej rozpoznawalnych i romantycznych miejsc we Włoszech.
+	- **Galeria Uffizi** (25€) – jedno z najważniejszych muzeów sztuki na świecie, z dziełami Botticellego, Leonarda da Vinci i Tycjana. Kolekcja obejmuje kluczowe obrazy epoki renesansu. Rezerwacja wejścia jest praktycznie obowiązkowa ze względu na tłumy.
+	- **Galeria dell’Accademia** – muzeum znane przede wszystkim z oryginalnego „Dawida” Michała Anioła. Rzeźba robi ogromne wrażenie skalą i detalem wykonania. Pozostała część muzeum jest mniejsza, ale uzupełnia kontekst twórczości artysty.
+	- **Palazzo Pitti** (16€) – monumentalny pałac po drugiej stronie Arno, dawna rezydencja rodu Medyceuszy. W środku znajdują się liczne galerie sztuki i królewskie apartamenty. Budynek pokazuje skalę bogactwa dawnych elit Florencji.
+	- **Ogród Boboli** (13€) – rozległy ogród renesansowy przy Palazzo Pitti, pełen rzeźb, tarasów i alejek widokowych. To jedno z najlepszych miejsc na spokojny spacer i odpoczynek od tłumów miasta. Z wyższych punktów ogrodu widać panoramę Florencji.
+	- **Piazzale Michelangelo** – najsłynniejszy punkt widokowy we Florencji, szczególnie popularny o zachodzie słońca. Widok obejmuje całą starówkę z kopułą katedry na pierwszym planie. To jedno z najbardziej fotograficznych miejsc w mieście.
+	- **Piazzale Michelangelo** - punkt widokowy, szczególnie ładnie o zachodzie słońca
+	- **Trattoria Zà Zà** - BARDZO popularna restauracja, ale trzeba zrobić wcześniej rezerwacje. Ceny, jak na Florencje, przystępne
+- rozważyć kupno [biletów 'kombinowanych'](https://www.uffizi.it/en/tickets)
+- ciekawostka: [Syndrom Florencki](https://pl.wikipedia.org/wiki/Syndrom_Stendhala)
 
-- **Rimini**
-	- Rimini to najprostszy i najbardziej oczywisty sposób, żeby połączyć zwiedzanie Bolonii z **wypoczynkiem nad morzem**. Dojazd pociągiem zajmuje od około jednej do dwóch godzin w zależności od wybranego połączenia.
-	- miejsca
-		- **Łuk Augusta** – najstarszy zachowany łuk triumfalny w północnych Włoszech, zbudowany w 27 r. p.n.e. na cześć cesarza Augusta. Symbolizował zakończenie ważnej drogi Via Flaminia. Dziś stanowi jedno z głównych wejść do historycznego centrum Rimini.
-		- **Most Tyberiusza** – rzymski most z I wieku n.e., który do dziś pozostaje w użyciu i łączy centrum miasta z dzielnicą Borgo San Giuliano. Jest przykładem niezwykle trwałej inżynierii rzymskiej. W okolicy znajdują się klimatyczne uliczki i murale.
-		- **Piazza Cavour** – główny plac historycznego centrum Rimini, otoczony pałacami i zabytkowymi budynkami. W przeszłości pełnił funkcję centrum administracyjnego miasta. Dziś jest miejscem spotkań i wydarzeń kulturalnych.
-		- plaża
+#### Rimini
+- czas i cena przejazdu: ok 1h 30min (11,30€)
+- Rimini to najprostszy i najbardziej oczywisty sposób, żeby połączyć zwiedzanie Bolonii z **wypoczynkiem nad morzem**. Dojazd pociągiem zajmuje od około jednej do dwóch godzin w zależności od wybranego połączenia.
+- miejsca
+	- **Łuk Augusta** – najstarszy zachowany łuk triumfalny w północnych Włoszech, zbudowany w 27 r. p.n.e. na cześć cesarza Augusta. Symbolizował zakończenie ważnej drogi Via Flaminia. Dziś stanowi jedno z głównych wejść do historycznego centrum Rimini.
+	- **Most Tyberiusza** – rzymski most z I wieku n.e., który do dziś pozostaje w użyciu i łączy centrum miasta z dzielnicą Borgo San Giuliano. Jest przykładem niezwykle trwałej inżynierii rzymskiej. W okolicy znajdują się klimatyczne uliczki i murale.
+	- **Piazza Cavour** – główny plac historycznego centrum Rimini, otoczony pałacami i zabytkowymi budynkami. W przeszłości pełnił funkcję centrum administracyjnego miasta. Dziś jest miejscem spotkań i wydarzeń kulturalnych.
+	- plaża
 
-- **Modena**
-	- Modena to eleganckie miasto Emilii-Romanii znane na całym świecie z balsamico tradizionale oraz motoryzacji – to właśnie stąd pochodzą Ferrari i Maserati. Historyczne centrum wpisane jest na listę UNESCO i zachwyca romańską katedrą oraz spokojną, bardziej „lokalną” atmosferą niż w Bolonii. Modena ma też silną scenę kulinarną – to jedno z najlepszych miejsc we Włoszech dla miłośników jedzenia wysokiej jakości. Idealna na półdniową lub jednodniową wycieczkę bez tłumów.
-	- miejsca:
-		- **Duomo di Modena** – romańska katedra wpisana na listę UNESCO, będąca jednym z najważniejszych przykładów architektury sakralnej w północnych Włoszech. Wnętrze jest stosunkowo surowe, ale sama bryła i detale fasady robią ogromne wrażenie. Obok znajduje się dzwonnica Torre Ghirlandina – symbol miasta i punkt widokowy.
-		- **Piazza Grande** – główny plac Modeny otoczony historycznymi budynkami i katedrą, pełniący od wieków funkcję centrum życia miejskiego. To tutaj odbywały się targi, uroczystości i wydarzenia publiczne. Całość jest wpisana na listę UNESCO jako część kompleksu katedralnego.
-		- **Torre Ghirlandina** – średniowieczna wieża, która pierwotnie pełniła funkcję dzwonnicy i punktu obserwacyjnego. Dziś można wejść na górę i zobaczyć panoramę Modeny i okolic. Wieża jest jednym z najważniejszych symboli miasta.
-		- **Mercato Albinelli** – historyczny targ kryty z początku XX wieku, pełen lokalnych produktów, serów, wędlin i świeżych składników. To jedno z najlepszych miejsc, żeby poczuć kulinarny charakter Modeny. W środku działają też małe bary i miejsca na szybki lunch.
-		- **Muzeum Enzo Ferrari** – nowoczesne muzeum poświęcone historii Ferrari i jego założyciela. Łączy ekspozycję klasycznych modeli z futurystyczną architekturą budynku. Obowiązkowy punkt dla fanów motoryzacji.
+#### Modena
+- czas i cena przejazdu: ok 30min (4,50€ - 9,90€)
+- Modena to eleganckie miasto Emilii-Romanii znane na całym świecie z balsamico tradizionale oraz motoryzacji – to właśnie stąd pochodzą Ferrari i Maserati. Historyczne centrum wpisane jest na listę UNESCO i zachwyca romańską katedrą oraz spokojną, bardziej „lokalną” atmosferą niż w Bolonii. Modena ma też silną scenę kulinarną – to jedno z najlepszych miejsc we Włoszech dla miłośników jedzenia wysokiej jakości. Idealna na półdniową lub jednodniową wycieczkę bez tłumów.
+- miejsca:
+	- **Duomo di Modena** – romańska katedra wpisana na listę UNESCO, będąca jednym z najważniejszych przykładów architektury sakralnej w północnych Włoszech. Wnętrze jest stosunkowo surowe, ale sama bryła i detale fasady robią ogromne wrażenie. Obok znajduje się dzwonnica Torre Ghirlandina – symbol miasta i punkt widokowy.
+	- **Piazza Grande** – główny plac Modeny otoczony historycznymi budynkami i katedrą, pełniący od wieków funkcję centrum życia miejskiego. To tutaj odbywały się targi, uroczystości i wydarzenia publiczne. Całość jest wpisana na listę UNESCO jako część kompleksu katedralnego.
+	- **Torre Ghirlandina** – średniowieczna wieża, która pierwotnie pełniła funkcję dzwonnicy i punktu obserwacyjnego. Dziś można wejść na górę i zobaczyć panoramę Modeny i okolic. Wieża jest jednym z najważniejszych symboli miasta.
+	- **Mercato Albinelli** – historyczny targ kryty z początku XX wieku, pełen lokalnych produktów, serów, wędlin i świeżych składników. To jedno z najlepszych miejsc, żeby poczuć kulinarny charakter Modeny. W środku działają też małe bary i miejsca na szybki lunch.
+	- **Muzeum Enzo Ferrari** – nowoczesne muzeum poświęcone historii Ferrari i jego założyciela. Łączy ekspozycję klasycznych modeli z futurystyczną architekturą budynku. Obowiązkowy punkt dla fanów motoryzacji.
 
-- **Ferrera**
-	- Zaledwie pół godziny pociągiem z Bolonii położona jest Ferrara – jedno z tych pięknych miast Emilii-Romanii, które wciąż pozostaje poza głównym szlakiem masowej turystyki. Tymczasem Ferrara urzeka spokojem, autentycznością i wyjątkowym dziedzictwem renesansu. To idealna, kameralna odskocznia od zatłoczonej Bolonii. Ferrara sprawdzi się idealnie jako spokojna, kilkugodzinna wycieczka z Bolonii. Najważniejsze atrakcje zobaczysz w 4–5 godzin, ale warto zostać dłużej, pospacerować po historycznym centrum i skosztować lokalnego specjału – _cappellacci di zucca_ (pierogi z dynią z masłem i szałwią).
-	- miejsca:
-		- **Castello Estense** – imponujący zamek otoczony fosą, będący dawną rezydencją rodu d’Este. Łączy funkcję obronną z reprezentacyjną, co widać w jego masywnej architekturze. W środku można zobaczyć historyczne sale i wieże z widokiem na miasto.
-		- **Duomo di San Giorgio** – katedra Ferrary o fasadzie łączącej styl romański i gotycki, z bogato zdobionym portalem. Wnętrze jest bardziej stonowane, ale pełne historycznych dzieł sztuki. Świątynia od wieków pełni rolę duchowego centrum miasta.
-		- **Loggia dei Merciai** – historyczna arkadowa przestrzeń handlowa, gdzie kiedyś odbywały się targi i wymiana towarów. Dziś stanowi klimatyczny element starego miasta. Przypomina o handlowym znaczeniu Ferrary w przeszłości.
-		- **Palazzo dei Diamanti** – jeden z najsłynniejszych renesansowych pałaców we Włoszech, nazwany tak od charakterystycznej fasady pokrytej „diamentowymi” blokami kamienia. Obecnie mieści galerie sztuki i wystawy czasowe. Budynek jest jednym z najbardziej rozpoznawalnych symboli Ferrary.
+#### Ferrara
+- czas i cena przejazdu: 26 min (18,90€), 31 min (5,50€)
+- Zaledwie pół godziny pociągiem z Bolonii położona jest Ferrara – jedno z tych pięknych miast Emilii-Romanii, które wciąż pozostaje poza głównym szlakiem masowej turystyki. Tymczasem Ferrara urzeka spokojem, autentycznością i wyjątkowym dziedzictwem renesansu. To idealna, kameralna odskocznia od zatłoczonej Bolonii. Ferrara sprawdzi się idealnie jako spokojna, kilkugodzinna wycieczka z Bolonii. Najważniejsze atrakcje zobaczysz w 4–5 godzin, ale warto zostać dłużej, pospacerować po historycznym centrum i skosztować lokalnego specjału – _cappellacci di zucca_ (pierogi z dynią z masłem i szałwią).
+- miejsca:
+	- **Castello Estense** – imponujący zamek otoczony fosą, będący dawną rezydencją rodu d’Este. Łączy funkcję obronną z reprezentacyjną, co widać w jego masywnej architekturze. W środku można zobaczyć historyczne sale i wieże z widokiem na miasto.
+	- **Duomo di San Giorgio** – katedra Ferrary o fasadzie łączącej styl romański i gotycki, z bogato zdobionym portalem. Wnętrze jest bardziej stonowane, ale pełne historycznych dzieł sztuki. Świątynia od wieków pełni rolę duchowego centrum miasta.
+	- **Loggia dei Merciai** – historyczna arkadowa przestrzeń handlowa, gdzie kiedyś odbywały się targi i wymiana towarów. Dziś stanowi klimatyczny element starego miasta. Przypomina o handlowym znaczeniu Ferrary w przeszłości.
+	- **Palazzo dei Diamanti** – jeden z najsłynniejszych renesansowych pałaców we Włoszech, nazwany tak od charakterystycznej fasady pokrytej „diamentowymi” blokami kamienia. Obecnie mieści galerie sztuki i wystawy czasowe. Budynek jest jednym z najbardziej rozpoznawalnych symboli Ferrary.
 	
-- **Parma**
-	- Parma to jedno z najbardziej eleganckich miast regionu, znane z opery, sztuki i światowej klasy gastronomii. To tutaj powstaje słynny Parmigiano Reggiano oraz Prosciutto di Parma, a miasto uchodzi za jedno z kulinarnych centrów Włoch. Historycznie Parma była ważnym księstwem, co widać w monumentalnej architekturze i bogatych wnętrzach katedry oraz baptysterium. Miasto jest mniejsze i bardziej uporządkowane niż Bolonia, idealne na spokojny dzień.
-	- miejsca:
-		- **Duomo di Parma** – imponująca romańska katedra z jedną z najważniejszych freskowych kopuł w Europie autorstwa Correggia. Wnętrze jest pełne światła i złudzeń optycznych, które tworzą efekt „ruchu” na sklepieniu. To jedno z największych dzieł renesansu w regionie.
-		- **Baptysterium w Parmie (Battistero di Parma)** – ośmiokątny budynek z różowego marmuru, będący przejściem między romanizmem a gotykiem. Wnętrze zdobią freski i rzeźby przedstawiające sceny biblijne i symboliczne. To jeden z najbardziej unikalnych budynków sakralnych we Włoszech.
-		- **Teatro Regio** – jedna z najważniejszych oper we Włoszech, będąca symbolem muzycznej tradycji Parmy. Wnętrze jest eleganckie, klasyczne i bardzo reprezentacyjne. Miasto jest silnie związane z Giuseppe Verdim.
-		- **Palazzo della Pilotta** – rozległy kompleks muzealny obejmujący galerie sztuki, bibliotekę i teatr Farnese. To jedno z najważniejszych miejsc kulturalnych Parmy. Szczególnie imponujący jest drewniany teatr wewnątrz pałacu.
-		- **Parco Ducale** – duży, elegancki park miejski założony przez ród Farnese, idealny na spacer i odpoczynek. Miejsce ma klasyczny, królewski układ z alejami i stawami. Popularne wśród mieszkańców na spokojne popołudnia.
+#### Parma
+- czas i cena przejazdu: ok 1h (8,50€ - 12,00€ - 26,00€)
+- Parma to jedno z najbardziej eleganckich miast regionu, znane z opery, sztuki i światowej klasy gastronomii. To tutaj powstaje słynny Parmigiano Reggiano oraz Prosciutto di Parma, a miasto uchodzi za jedno z kulinarnych centrów Włoch. Historycznie Parma była ważnym księstwem, co widać w monumentalnej architekturze i bogatych wnętrzach katedry oraz baptysterium. Miasto jest mniejsze i bardziej uporządkowane niż Bolonia, idealne na spokojny dzień.
+- miejsca:
+	- **Duomo di Parma** – imponująca romańska katedra z jedną z najważniejszych freskowych kopuł w Europie autorstwa Correggia. Wnętrze jest pełne światła i złudzeń optycznych, które tworzą efekt „ruchu” na sklepieniu. To jedno z największych dzieł renesansu w regionie.
+	- **Baptysterium w Parmie (Battistero di Parma)** – ośmiokątny budynek z różowego marmuru, będący przejściem między romanizmem a gotykiem. Wnętrze zdobią freski i rzeźby przedstawiające sceny biblijne i symboliczne. To jeden z najbardziej unikalnych budynków sakralnych we Włoszech.
+	- **Teatro Regio** – jedna z najważniejszych oper we Włoszech, będąca symbolem muzycznej tradycji Parmy. Wnętrze jest eleganckie, klasyczne i bardzo reprezentacyjne. Miasto jest silnie związane z Giuseppe Verdim.
+	- **Palazzo della Pilotta** – rozległy kompleks muzealny obejmujący galerie sztuki, bibliotekę i teatr Farnese. To jedno z najważniejszych miejsc kulturalnych Parmy. Szczególnie imponujący jest drewniany teatr wewnątrz pałacu.
+	- **Parco Ducale** – duży, elegancki park miejski założony przez ród Farnese, idealny na spacer i odpoczynek. Miejsce ma klasyczny, królewski układ z alejami i stawami. Popularne wśród mieszkańców na spokojne popołudnia.
 	
-- **Rawenna**
-	- Rawenna to jedna z największych niespodzianek Emilii-Romanii. Rawenna to **dawna stolica Cesarstwa Zachodniorzymskiego**, a później ważny ośrodek bizantyjski we Włoszech, która zachowała największy na Zachodzie **zbiór mozaik z V–VI wieku**. To łącznie aż **osiem obiektów wpisanych na listę UNESCO**, dla których przyjeżdżają turyści z całej Europy i świata. Tak dobrze zachowanych mozaik nie ma nigdzie indziej w Unii Europejskiej, a na świecie są tylko w nielicznych miejscach. Rawenna jest kameralna, autentyczna i wolna od tłumów – z lokalną atmosferą i naprawdę dobrymi restauracjami.
-	- porada praktyczna: Warto **kupić wspólny bilet wstępu do 5 najważniejszych zabytków** (wł. _biglietto cumulativo_), który upoważnia do odwiedzenia: Basilica di Sant’Apollinare Nuovo, Basilica di San Vitale, Mausoleo di Galla Placidia, Battistero Neoniano oraz Museo Arcivescovile e Cappella di S. Andrea. Bilet kosztuje **14,50 euro**, a ulgowy **4 euro**. Bilet można kupić w kasie na miejscu lub przez internet na oficjalnej stronie **[ravennamosaici.it](https://www.ravennamosaici.it/biglietteria-online/)**
-	- miejsca:
-		- **San Vitale** – jedna z najważniejszych świątyń bizantyjskich w Europie, słynąca z mozaik przedstawiających cesarza Justyniana i cesarzową Teodorę. Wnętrze ma charakter ośmiokąta i zachwyca symetrią oraz złotymi detalami. To absolutny must-see Rawenny.
-		- **Mauzoleum Galli Placydii** – niewielka, ale niezwykle efektowna budowla z mozaikami w głębokich odcieniach błękitu. Wnętrze wygląda niemal jak rozgwieżdżone niebo, co daje wyjątkowy efekt wizualny. To jedno z najbardziej klimatycznych miejsc w całej Italii.
-		- **Bazylika Sant’Apollinare Nuovo** – długi kościół z imponującymi mozaikami przedstawiającymi procesje świętych. Pierwotnie była związana z władzą ostrogocką, później przebudowana przez Bizancjum. Mozaiki są jednymi z najlepiej zachowanych w regionie.
-		- **grób Dantego Alighieri** – skromne mauzoleum poświęcone autorowi „Boskiej komedii”, który zmarł na wygnaniu w Rawennie. Miejsce ma charakter symboliczny i jest ważnym punktem dla włoskiej tożsamości literackiej. Obok znajduje się spokojna strefa pamięci i niewielkie muzeum.
-	- 
-
-
-
-
-
-
+#### Rawenna
+- czas i cena przejazdu: ok 1h12min (8,50€)
+- Rawenna to jedna z największych niespodzianek Emilii-Romanii. Rawenna to **dawna stolica Cesarstwa Zachodniorzymskiego**, a później ważny ośrodek bizantyjski we Włoszech, która zachowała największy na Zachodzie **zbiór mozaik z V–VI wieku**. To łącznie aż **osiem obiektów wpisanych na listę UNESCO**, dla których przyjeżdżają turyści z całej Europy i świata. Tak dobrze zachowanych mozaik nie ma nigdzie indziej w Unii Europejskiej, a na świecie są tylko w nielicznych miejscach. Rawenna jest kameralna, autentyczna i wolna od tłumów – z lokalną atmosferą i naprawdę dobrymi restauracjami.
+- porada praktyczna: Warto **kupić wspólny bilet wstępu do 5 najważniejszych zabytków** (wł. _biglietto cumulativo_), który upoważnia do odwiedzenia: Basilica di Sant’Apollinare Nuovo, Basilica di San Vitale, Mausoleo di Galla Placidia, Battistero Neoniano oraz Museo Arcivescovile e Cappella di S. Andrea. Bilet kosztuje **14,50 euro**, a ulgowy **4 euro**. Bilet można kupić w kasie na miejscu lub przez internet na oficjalnej stronie **[ravennamosaici.it](https://www.ravennamosaici.it/biglietteria-online/)**
+- miejsca:
+	- **San Vitale** – jedna z najważniejszych świątyń bizantyjskich w Europie, słynąca z mozaik przedstawiających cesarza Justyniana i cesarzową Teodorę. Wnętrze ma charakter ośmiokąta i zachwyca symetrią oraz złotymi detalami. To absolutny must-see Rawenny.
+	- **Mauzoleum Galli Placydii** – niewielka, ale niezwykle efektowna budowla z mozaikami w głębokich odcieniach błękitu. Wnętrze wygląda niemal jak rozgwieżdżone niebo, co daje wyjątkowy efekt wizualny. To jedno z najbardziej klimatycznych miejsc w całej Italii.
+	- **Bazylika Sant’Apollinare Nuovo** – długi kościół z imponującymi mozaikami przedstawiającymi procesje świętych. Pierwotnie była związana z władzą ostrogocką, później przebudowana przez Bizancjum. Mozaiki są jednymi z najlepiej zachowanych w regionie.
+	- **grób Dantego Alighieri** – skromne mauzoleum poświęcone autorowi „Boskiej komedii”, który zmarł na wygnaniu w Rawennie. Miejsce ma charakter symboliczny i jest ważnym punktem dla włoskiej tożsamości literackiej. Obok znajduje się spokojna strefa pamięci i niewielkie muzeum.
