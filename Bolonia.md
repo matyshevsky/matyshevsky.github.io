@@ -19,7 +19,11 @@ Spis treści
 - Linia lotnicza: wizz air
 - [nocleg](https://www.booking.com/hotel/it/irnerio-apartments-by-wonderful-italy.pl.html)
 - szacowana ilość gotówki na osobę: ok 350-400€
-- [mapka](https://maps.app.goo.gl/FFUCtNdXAVp4onms8?g_st=i)
+- mapki:
+	- [Bolonia](https://maps.app.goo.gl/2oVdWdY7AivPmLcC8) 
+	- [Bolonia jedzenie](https://maps.app.goo.gl/2oVdWdY7AivPmLcC8)
+	- [Florencja](https://maps.app.goo.gl/9DEbtGXMVSV6aBSY8)
+	- [Florencja jedzenie](https://maps.app.goo.gl/UisqyP39kwQm2pvWA)
 - bagaż tylko podręczny: 40cm x 30cm x 20cm 10kg max
 - [pociągi międzymiastowe](https://www.trenitalia.com/it.html)
 
